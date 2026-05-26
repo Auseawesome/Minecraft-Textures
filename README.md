@@ -10,7 +10,7 @@ These textures are all licensed under CC0 meaning you can use them for *anything
 
 ## Gallery View
 
-This repository is best viewed through the [Minecraft Textures Viewer](https://github.com/oparisblue/minecraft-textures-viewer) by [oparisblue](https://github.com/oparisblue). [View this repository through their viewer here](https://oparisblue.github.io/minecraft-textures-viewer/#github/Auseawesome/Minecraft-Textures/master).
+This repository is best viewed through the [Minecraft Textures Viewer](https://github.com/oparisblue/minecraft-textures-viewer) by [oparisblue](https://github.com/oparisblue). [View this repository through their viewer here](https://oparisblue.github.io/minecraft-textures-viewer/#github/Auseawesome/Minecraft-Textures/main).
 
 ## Other textures
 There are more repositories of textures you can use if you are looking for more assets for your mod or for inspiration, but most of them are licensed more restrictively than this repository, find them here:
