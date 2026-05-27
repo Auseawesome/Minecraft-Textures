@@ -20,6 +20,14 @@ There are more repositories of textures you can use if you are looking for more 
 - [Futureazoo's TextureRepository](https://github.com/Futureazoo/TextureRepository)
 - [CleanRooster's RPG Assets](https://github.com/cleannrooster/forg-cleannrooster-assets)
 
+## Contributions
+
+Contributions are more than welcome, especially if you want to add some variations of existing texture, though I highly recommend other artists to make their own repositories similar to this one so they can license it however they please, if you do this and would like a link to your repo on this one, message me as detailed below.
+
+I do have to stipulate that every contribution is made under the license for this repository however, and I cannot accept contributions under licenses except CC0 due to this.
+
+If after this you do still want to contribute, either contact me or open a pull request!
+
 ## Commissions
 
 Although I am very busy, if your project intrigues me I might be willing to lend a hand. You can find me on the [Perxenic Discord Server](https://discord.gg/Y8HYx5ycKB).
