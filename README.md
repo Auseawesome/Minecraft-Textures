@@ -13,7 +13,7 @@ These textures are all licensed under CC0 meaning you can use them for *anything
 This repository is best viewed through the [Minecraft Textures Viewer](https://github.com/oparisblue/minecraft-textures-viewer) by [oparisblue](https://github.com/oparisblue). [View this repository through their viewer here](https://oparisblue.github.io/minecraft-textures-viewer/#github/Auseawesome/Minecraft-Textures/main).
 
 ## Other textures
-There are more repositories of textures you can use if you are looking for more assets for your mod or for inspiration, but most of them are licensed more restrictively than this repository, find them here:
+There are more repositories of textures you can use if you are looking for more assets for your mod or for inspiration (Note that most of them are licensed more restrictively than this repository). You can find them here:
 
 - [Malcolm Riley's Textures](https://github.com/malcolmriley/unused-textures)
 - [Foreck's Textures](https://github.com/Foreck1/foreck-textures)
@@ -22,13 +22,13 @@ There are more repositories of textures you can use if you are looking for more 
 
 ## Contributions
 
-Contributions are more than welcome, especially if you want to add some variations of existing texture, though I highly recommend other artists to make their own repositories similar to this one so they can license it however they please, if you do this and would like a link to your repo on this one, message me as detailed below.
+Contributions are more than welcome, especially if you want to add some variations of existing texture! I highly recommend other artists with many textures to make their own repositories similar to this one so they can license it however they please. If you would like a link to your texture repo on this one, message me as detailed below.
 
 I do have to stipulate that every contribution is made under the license for this repository however, and I cannot accept contributions under licenses except CC0 due to this.
 
 If after this you do still want to contribute, either contact me or open a pull request!
 
-## Commissions
+## Commissions and Contact
 
 Although I am very busy, if your project intrigues me I might be willing to lend a hand. You can find me on the [Perxenic Discord Server](https://discord.gg/Y8HYx5ycKB).
 
